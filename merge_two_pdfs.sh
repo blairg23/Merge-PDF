@@ -1,0 +1,1 @@
+pdftk A=1.pdf B=2.pdf cat A B output merged.pdf

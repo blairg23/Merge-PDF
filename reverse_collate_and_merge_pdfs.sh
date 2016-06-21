@@ -1,0 +1,1 @@
+pdftk A=odd.pdf B=even.pdf shuffle A Bend-1 output merged.pdf
